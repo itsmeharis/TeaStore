@@ -4,6 +4,8 @@
 
 	<properties>
 		<teastoreversion>1.4.0</teastoreversion>
+		<sonar.organization>bhagyac</sonar.organization>
+                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<prerequisites>
